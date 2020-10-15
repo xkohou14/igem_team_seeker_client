@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/igem_team_seeker_client/static/css/main.581217f2.chunk.css",
-    "main.js": "/igem_team_seeker_client/static/js/main.f556425c.chunk.js",
-    "main.js.map": "/igem_team_seeker_client/static/js/main.f556425c.chunk.js.map",
+    "main.js": "/igem_team_seeker_client/static/js/main.39283133.chunk.js",
+    "main.js.map": "/igem_team_seeker_client/static/js/main.39283133.chunk.js.map",
     "runtime-main.js": "/igem_team_seeker_client/static/js/runtime-main.911f62a4.js",
     "runtime-main.js.map": "/igem_team_seeker_client/static/js/runtime-main.911f62a4.js.map",
     "static/js/2.cd555bce.chunk.js": "/igem_team_seeker_client/static/js/2.cd555bce.chunk.js",
     "static/js/2.cd555bce.chunk.js.map": "/igem_team_seeker_client/static/js/2.cd555bce.chunk.js.map",
     "index.html": "/igem_team_seeker_client/index.html",
-    "precache-manifest.c038fd6cbd3f2555ac0699d926898c01.js": "/igem_team_seeker_client/precache-manifest.c038fd6cbd3f2555ac0699d926898c01.js",
+    "precache-manifest.eec00720946c237ce7751bdfdf344bb9.js": "/igem_team_seeker_client/precache-manifest.eec00720946c237ce7751bdfdf344bb9.js",
     "service-worker.js": "/igem_team_seeker_client/service-worker.js",
     "static/css/main.581217f2.chunk.css.map": "/igem_team_seeker_client/static/css/main.581217f2.chunk.css.map",
     "static/js/2.cd555bce.chunk.js.LICENSE.txt": "/igem_team_seeker_client/static/js/2.cd555bce.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.911f62a4.js",
     "static/js/2.cd555bce.chunk.js",
     "static/css/main.581217f2.chunk.css",
-    "static/js/main.f556425c.chunk.js"
+    "static/js/main.39283133.chunk.js"
   ]
 }

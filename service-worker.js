@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/igem_team_seeker_client/precache-manifest.c038fd6cbd3f2555ac0699d926898c01.js"
+  "/igem_team_seeker_client/precache-manifest.eec00720946c237ce7751bdfdf344bb9.js"
 );
 
 self.addEventListener('message', (event) => {
