@@ -7,7 +7,7 @@ import './SearchBar.css';
 class SearchBar extends Component {
     constructor(props) {
         super(props);
-        const option = this.props.selectedTeams ? "abstract" : "content"
+        const option = this.props.selectedTeams ? "description" : "content"
         this.state = {
             search: '',
             results: [],
@@ -16,7 +16,7 @@ class SearchBar extends Component {
             contain: true,
         }
         this.tagsBio = ["title", "content"]
-        this.tagsTeams = ["title", "year", "school", "country", "abstract"]
+        this.tagsTeams = ["title", "year", "school", "country", "description"]
         this.master = this.props.master
         this.query = {}
         this.fetchData = this.fetchData.bind(this)
